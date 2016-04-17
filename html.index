@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head >
+       <meta charset="UTF-8">
+       <link rel="css" type="css" href="main.css">
+      <link rel="stylesheet" type="text/css" href="style.css">
+       <div class="header">
+        
+       <nav>
+       <a class="textcolor"> <b>Emily-Khine</b></a>
+       <a  href="/html/">Home</a>  
+       <a  href="/css/">Experience</a> 
+  </nav>
+   </div>
+  </head>
+
+
+<header>
+<img class="overlayimage" src="../me.png">
+<img class="backgroundimage" src="../portland.jpg" >
+<p class="intro"><b>Hello, I'm Emily-Khine!</b> </p>
+<br> <br> <br> <br><br> <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+</header>
+<body>
+<div class= "paragraph1">
+<h1>Background</h1>
+<p> I am an humanist, learner, and adventuorous at heart. I have worked at odd jobs to office jobs and social work. I enjoy making websites and learning coding since I am amazed by how much we can create using programming. </p></div>
+<div class="paragraph2">
+<h1>My goals </h1>
+<p> I have started my journey of learning to code from html, css, and javascript. I plan to contiue learning the backend development when I know well enough frontend development.</p>
+</div>
+
+
+</body>
+
+<footer>
+<a href=""><img class="logo"src="../logo.png" style="width:40px; height: 40px; border:0"></a>
+<p class="copyright"> Copyright, Emily-Khine Chu </p>
+
+</footer>
+</html>
