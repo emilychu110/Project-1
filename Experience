@@ -1,0 +1,29 @@
+<html>
+  <head >
+       <meta charset="UTF-8">
+       <link rel="css" type="css" href="main.css">
+      <link rel="stylesheet" type="text/css" href="style.css">
+       <div class="header">
+        
+       <nav>
+       <a class="textcolor"> <b>Emily-Khine</b></a>
+       <a  href="index.html" >Home</a>  
+       <a  href="Experience" selected="selected">Experience</a> 
+  </nav>
+   </div>
+  </head>
+
+
+
+<body>
+
+
+
+</body>
+
+<footer>
+<a href="https://github.com/emilychu110"><img class="logo"src="../logo.png" style="width:40px; height: 40px; border:0"></a>
+<p class="copyright"> Copyright, Emily-Khine Chu </p>
+
+</footer>
+</html>
